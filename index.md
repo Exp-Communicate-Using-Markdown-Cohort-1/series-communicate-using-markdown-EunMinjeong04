@@ -1,6 +1,6 @@
 # Head1:Learning Markdown from scratch
 This is the first file.
-A new figure ![figure|600](https://telepic.yuukidev.me/file/193de1e74d20e54ea169e.png)
+A new figure ![figure|400](https://telepic.yuukidev.me/file/193de1e74d20e54ea169e.png)
 
 # Pseudocode 
 ```
@@ -33,3 +33,6 @@ begin
 	end while
 end
 ```
+# Task list 
+- [x] Merge Algorithm
+- [ ] Split method
